@@ -6,7 +6,7 @@ I’m also working on building AI agents to enhance automation and decision-maki
 
 🔹 **Tech Stack**: Python, PyTorch, TensorFlow, FastAPI, Docker, Agno
 
-🔹 **Research Areas**: AI agents, zero-shot learning, and geospatial AI
+🔹 **Research Areas**: Computer Vision, Vision-Language Models, and Geospatial AI
 
 🔹 **Publications**: CVPR, IGARSS
 
